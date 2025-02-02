@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\services\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\services\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\services\\scoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\services\\scoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\services\\conversationalaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\services\\conversationalaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\services\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\services\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\controllers\\ieltsspeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\controllers\\ieltsspeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\wwwroot\\js\\recorder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\wwwroot\\js\\recorder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\views\\ieltsspeaking\\practice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\views\\ieltsspeaking\\practice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\wwwroot\\css\\instruction.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\wwwroot\\css\\instruction.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\practiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\practiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|c:\\users\\hp\\onedrive\\documents\\github\\ilets\\ielts\\ielts\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4AD089-F8B4-44C6-AAD0-0C674C2F4B55}|IELTS\\IELTS.csproj|solutionrelative:ielts\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeechToTextService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\SpeechToTextService.cs",
+              "RelativeDocumentMoniker": "IELTS\\Services\\SpeechToTextService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\SpeechToTextService.cs",
+              "RelativeToolTip": "IELTS\\Services\\SpeechToTextService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:17:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoringService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ScoringService.cs",
+              "RelativeDocumentMoniker": "IELTS\\Services\\ScoringService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ScoringService.cs",
+              "RelativeToolTip": "IELTS\\Services\\ScoringService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:17:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "IELTS\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ReportService.cs",
+              "RelativeToolTip": "IELTS\\Services\\ReportService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:17:21.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversationalAIService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ConversationalAIService.cs",
+              "RelativeDocumentMoniker": "IELTS\\Services\\ConversationalAIService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\ConversationalAIService.cs",
+              "RelativeToolTip": "IELTS\\Services\\ConversationalAIService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA2wEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:16:11.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssessmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\AssessmentService.cs",
+              "RelativeDocumentMoniker": "IELTS\\Services\\AssessmentService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Services\\AssessmentService.cs",
+              "RelativeToolTip": "IELTS\\Services\\AssessmentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:15:45.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IELTSSpeakingController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Controllers\\IELTSSpeakingController.cs",
+              "RelativeDocumentMoniker": "IELTS\\Controllers\\IELTSSpeakingController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Controllers\\IELTSSpeakingController.cs",
+              "RelativeToolTip": "IELTS\\Controllers\\IELTSSpeakingController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAmwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:13:25.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "recorder.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\wwwroot\\js\\recorder.js",
+              "RelativeDocumentMoniker": "IELTS\\wwwroot\\js\\recorder.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\wwwroot\\js\\recorder.js",
+              "RelativeToolTip": "IELTS\\wwwroot\\js\\recorder.js",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAqwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-02T18:08:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instruction.css",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\wwwroot\\css\\Instruction.css",
+              "RelativeDocumentMoniker": "IELTS\\wwwroot\\css\\Instruction.css",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\wwwroot\\css\\Instruction.css",
+              "RelativeToolTip": "IELTS\\wwwroot\\css\\Instruction.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T18:07:52.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IELTS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IELTS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:07:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Program.cs",
+              "RelativeDocumentMoniker": "IELTS\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Program.cs",
+              "RelativeToolTip": "IELTS\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:06:24.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\appsettings.json",
+              "RelativeDocumentMoniker": "IELTS\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\appsettings.json",
+              "RelativeToolTip": "IELTS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T18:05:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "IELTS\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:49.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Feedback.cs",
+              "RelativeToolTip": "IELTS\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Practice.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Views\\IELTSSpeaking\\Practice.cshtml",
+              "RelativeDocumentMoniker": "IELTS\\Views\\IELTSSpeaking\\Practice.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Views\\IELTSSpeaking\\Practice.cshtml",
+              "RelativeToolTip": "IELTS\\Views\\IELTSSpeaking\\Practice.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAPsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:57:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PracticeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\PracticeViewModel.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\PracticeViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\PracticeViewModel.cs",
+              "RelativeToolTip": "IELTS\\Models\\PracticeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Response.cs",
+              "RelativeToolTip": "IELTS\\Models\\Response.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\Session.cs",
+              "RelativeToolTip": "IELTS\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\User.cs",
+              "RelativeToolTip": "IELTS\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:04:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "IELTS\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\ILETS\\IELTS\\IELTS\\Models\\UserResponse.cs",
+              "RelativeToolTip": "IELTS\\Models\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:03:52.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
