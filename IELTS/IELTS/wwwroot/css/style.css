@@ -1,0 +1,105 @@
+﻿/* wwwroot/css/style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0f0e0e;
+    color: #fff;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 999;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.nav-part2 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.main h1 {
+    font-size: 130px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 0.8;
+    width: 80%;
+    margin-left: 10%;
+}
+
+    .main h1:nth-of-type(1) {
+        margin-top: 80px;
+    }
+
+    .main h1:nth-of-type(2) {
+        text-align: center;
+    }
+
+    .main h1:nth-of-type(3) {
+        text-align: center;
+    }
+
+img {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 12%;
+    left: 40%;
+    object-fit: cover;
+    object-position: center;
+    z-index: -1;
+}
+
+#img1 {
+    rotate: 20deg;
+}
+
+#img2 {
+    rotate: 10deg;
+}
+
+#img3 {
+    rotate: 0deg;
+}
+
+.main h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 50px;
+    position: absolute;
+    bottom: -30%;
+    margin-left: 20px;
+}
+
+.main h4 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 50px;
+    position: absolute;
+    bottom: -30%;
+    left: 42%;
+    width: 20%;
+}

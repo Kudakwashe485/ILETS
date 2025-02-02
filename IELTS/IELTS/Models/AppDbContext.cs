@@ -8,8 +8,9 @@ namespace IELTS.Data
 		public DbSet<User> Users { get; set; }
 		public DbSet<Session> Sessions { get; set; }
 		public DbSet<Response> Responses { get; set; }
-
-		public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        public DbSet<UserResponse> UserResponses { get; set; }
+        public DbSet<Feedback> Feedbacks { get; set; }
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
 		{
 		}
 

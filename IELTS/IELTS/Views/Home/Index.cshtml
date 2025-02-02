@@ -2,7 +2,34 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ILETS PROJECT</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="nav">
+            <h3>ILETS</h3>
+            <div class="nav-part2">
+                <h3><a asp-controller="IELTSSpeaking" asp-action="Practice">Practice</a></h3>
+                <h3><a asp-controller="IELTSSpeaking" asp-action="Test">Test</a></h3>
+            </div>
+        </div>
+
+        <h1>Welcome </h1>
+        <h1>to the IELTS EXPRESS</h1>
+
+        <img id="img1" src="https://www.securemyscholarship.com/blog/wp-content/uploads/2023/06/the-complete-guide-to-ielts.png" alt="">
+        <img id="img2" src="https://esdubai.com/wp-content/uploads/2023/01/Why-Do-I-Need-IELTS-1.jpg" alt="">
+        <img id="img3" src="https://leapscholar.com/blog/wp-content/uploads/2023/08/IELTS-for-USA-2-1024x576.jpg" alt="">
+        <h2>Ntandoyenkosi Ndlovu</h2>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+    <script src="~/js/script.js"></script>
+</body>
+</html>

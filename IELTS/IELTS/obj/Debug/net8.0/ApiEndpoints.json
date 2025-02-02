@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "IELTS.Controllers.IELTSSpeakingController",
+    "Method": "EndSession",
+    "RelativePath": "api/ielts/end-session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sessionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IELTS.Controllers.IELTSSpeakingController",
+    "Method": "Practice",
+    "RelativePath": "api/ielts/practice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IELTS.Controllers.IELTSSpeakingController",
+    "Method": "ProcessTranscript",
+    "RelativePath": "api/ielts/process-transcript",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IELTS.Controllers.TranscriptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IELTS.Controllers.IELTSSpeakingController",
+    "Method": "StartSession",
+    "RelativePath": "api/ielts/start-session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IELTS.Controllers.IELTSSpeakingController",
+    "Method": "Test",
+    "RelativePath": "api/ielts/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

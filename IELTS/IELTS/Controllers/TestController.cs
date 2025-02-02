@@ -4,19 +4,19 @@ using System.Threading.Tasks;
 
 namespace IELTS.Controllers
 {
-	public class TestController : Controller
-	{
-		private readonly ConversationalAIService _conversationalAIService;
+    public class TestController : Controller
+    {
+        private readonly ConversationalAIService _conversationalAIService;
 
-		public TestController()
-		{
-			_conversationalAIService = new ConversationalAIService();
-		}
+        public TestController(ConversationalAIService conversationalAIService)
+        {
+            _conversationalAIService = conversationalAIService;
+        }
 
-		public async Task<IActionResult> Index()
-		{
-			var response = await _conversationalAIService.GetResponseAsync("Hello, how are you?");
-			return Content(response);
-		}
-	}
+        public async Task<IActionResult> Index()
+        {
+            var response = await _conversationalAIService.GetExaminerResponseAsync("Hello, how are you?");
+            return Content(response);
+        }
+    }
 }
